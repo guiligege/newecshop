@@ -1,4 +1,4 @@
-<project name="ecshop" basedir="." default="deploy" xmlns:artifact="antlib:org.apache.maven.artifact.ant">
+﻿<project name="newecshop" basedir="." default="deploy" xmlns:artifact="antlib:org.apache.maven.artifact.ant">
 	<echo>${ant.project.name} build</echo>
 	<echo>
 		${ant.project.name} build.xml:
